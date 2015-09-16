@@ -6,7 +6,7 @@
   "description": "A monokai theme infused with light blue modeled after Monokai Light Blue (see Readme) and Solarized Dark",
   "repository": {
     "type": "git",
-    "url": "git@elliottpost-github:elliottpost/monokai-solarized-dark.git"
+    "url": "git@github.com:elliottpost/monokai-solarized-dark.git"
   },
   "license": "MIT",
   "engines": {
